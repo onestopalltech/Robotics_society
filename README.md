@@ -1,4 +1,4 @@
-# Robotics Society <3..
+# Robotics Society <3...
 
 # This is Official Application for Robotics Society,VSSUT.
 VSSUT built the Robotics Society app as a Free app. 
